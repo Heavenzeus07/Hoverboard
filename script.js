@@ -12,7 +12,7 @@ for(let i = 0; i < SQUARES; i++) {
 
     container.appendChild(square)
 }
-width= 700px;
+
 
 const color = getRandomColor()
    element.style.background = color
